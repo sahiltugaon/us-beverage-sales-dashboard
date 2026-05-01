@@ -1,1 +1,12 @@
-# us-beverage-sales-dashboard
+2. **U.S. Fictitious Beverage Brand Interactive Sales Dashboard with KPI**
+- **Project Description**: This project features a sales analysis dashboard for a fictitious U.S. beverage brand, displaying key performance indicators like revenue, average price per unit, and units sold across various states and product categories.
+- **Key Features**:
+  - Interactive visualization for revenue by month, product, and region
+  - Drill-down capabilities for more granular insights
+  - KPIs like revenue, average price per unit, and units sold
+- **Files**:
+  - `US_Fictitious_Beverage_Brand_Sales_Dashboard.pbix` – The Power BI dashboard file
+  - `README.md` – Project description
+  - `/assets/` – Screenshots and GIFs of the dashboard
+    - `dashboard-overview.png` – Full dashboard overview
+    - `kpi-interaction.gif` – GIF showing KPI interactivity
