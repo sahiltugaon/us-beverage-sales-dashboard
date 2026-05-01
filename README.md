@@ -1,4 +1,4 @@
-2. **U.S. Fictitious Beverage Brand Interactive Sales Dashboard with KPI**
+ **U.S. Fictitious Beverage Brand Interactive Sales Dashboard with KPI**
 - **Project Description**: This project features a sales analysis dashboard for a fictitious U.S. beverage brand, displaying key performance indicators like revenue, average price per unit, and units sold across various states and product categories.
 - **Key Features**:
   - Interactive visualization for revenue by month, product, and region
